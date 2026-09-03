@@ -109,19 +109,41 @@ abiyu = {
 
 </div>
 
----
-
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
-</p>
 
 ---
 
 ## 🐍 Contribution Snake
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # jalan otomatis tiap hari jam 00:00 UTC
+  workflow_dispatch: {}   # supaya bisa dijalankan manual
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: abysmaa
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <div align="center">
 
