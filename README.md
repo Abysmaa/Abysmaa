@@ -1,133 +1,80 @@
-<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8F87&height=190&section=header&text=Muhammad%20Abiyu%20Bisma&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20System%20Analyst&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Abiyu Bisma | Full Stack Developer, Data Analyst, System Analyst" />
+
+  <a href="https://github.com/Abysmaa"><img src="https://komarev.com/ghpvc/?username=abysmaa&color=0B8F87&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-abiyu-bisma-reswara-oetama-6bb65030b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/abiyubismaa"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:mabiyu25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+## About Me
+
+Mahasiswa **Gunadarma University** di Depok, Jawa Barat, yang tertarik membangun aplikasi web dan mobile serta mengolah data menjadi insight yang berguna.
+
+- **Focus:** Web & mobile development, data analysis, data visualization, and system analysis
+- **Currently:** Menganalisis data dan membangun aplikasi web/mobile yang scalable
+- **Based in:** Depok, Jawa Barat, Indonesia
+
+## Featured Project
+
+### [Analisis Sentimen Digi Bank BJB](https://github.com/Abysmaa/skripsi-bank-bjb)
+
+Analisis ulasan aplikasi Digi Bank BJB dari Google Play Store menggunakan **IndoBERT** untuk klasifikasi sentimen dan **Latent Dirichlet Allocation (LDA)** untuk pemodelan topik.
+
+| Dataset | Akurasi & F1-weighted | Temuan LDA |
+|:--|:--|:--|
+| 6.431 ulasan mentah<br>6.396 setelah cleaning | 92,75% | 4 topik dominan; Login & Akses tertinggi (31,08%) |
+
+`Python` `IndoBERT` `LDA` `Google Play Scraping` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Streamlit`
+
+## Areas of Interest
+
+| Area | Focus |
+|:--|:--|
+| Web & Mobile | Full-stack development, responsive UI, REST APIs |
+| Data | Sentiment analysis, topic modeling, visualization |
+| Systems | Requirements, system design, database modeling |
+| NLP | Text classification, IndoBERT, LDA |
+| Data Engineering | Web scraping, data cleaning, feature engineering |
+
+## Tech Stack
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=180&section=header&text=Muhammad%20Abiyu%20Bisma&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20System%20Analyst&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+**Languages**<br />
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,go,c,cpp,cs,html,css" alt="Python, JavaScript, TypeScript, PHP, Go, C, C++, C sharp, HTML, CSS" />
 
-  <!-- Profile views & socials -->
-  [![Profile Views](https://komarev.com/ghpvc/?username=abysmaa&color=7F77DD&style=flat-square&label=Profile+Views)](https://github.com/abysmaa)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abiyu-bisma-reswara-oetama-6bb65030b/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/abiyubismaa)
-  [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mabiyu25@gmail.com)
+**Frameworks & Design**<br />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,laravel,tailwind,bootstrap,figma" alt="Next.js, React, Vue, Node.js, Laravel, Tailwind, Bootstrap, Figma" />
+
+**Data & Tools**<br />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+<img src="https://img.shields.io/badge/Laragon-16A085?style=flat-square&logo=windows&logoColor=white" alt="Laragon" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
 
 </div>
 
----
-
-## 👋 About Me
-
-```python
-abiyu = {
-    "name":       "Muhammad Abiyu Bisma Reswara Oetama",
-    "role":       ["Full Stack Developer", "Data Analyst", "System Analyst"],
-    "education":  "Gunadarma University — Depok, Jawa Barat 🇮🇩",
-    "status":     "Undergraduate Student",
-    "focus":      ["Web Development", "Mobile Development", "Data Analysis", "Data Visualization", "System Analysis"],
-    "currently":  "Menganalisis data & membangun aplikasi web/mobile yang scalable",
-}
-```
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| 🏦 **[skripsi-bank-bjb](https://github.com/Abysmaa/skripsi-bank-bjb)** | Analisis sentimen aplikasi Digi Bank BJB menggunakan IndoBERT & pemodelan topik Latent Dirichlet Allocation (LDA). Data dikumpulkan via scraping dari Google Play Store (6.431 data mentah → 6.396 data bersih), mencapai F1-weighted & akurasi sebesar 92,75%. Hasil LDA menemukan 4 topik dominan sumber sentimen negatif pada aspek keamanan, dengan isu login & akses tertinggi (31,08%) | `Python` `IndoBERT` `LDA` `Scraping` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Streamlit` |
-
----
-
-## 📊 Data Analysis Highlights
+## GitHub Activity
 
 <div align="center">
-
-| Metrik | Hasil |
-|:---|:---|
-| 🎯 **Akurasi Model (IndoBERT)** | 92,75% |
-| 📈 **F1-Weighted Score** | 92,75% |
-| 🗂️ **Data Terkumpul** | 6.431 → 6.396 (setelah cleaning) |
-| 🔍 **Topik Dominan (LDA)** | 4 topik, tertinggi: Login & Akses (31,08%) |
-
-</div>
-
----
-
-## 🤖 Focus Areas
-
-<div align="center">
-
-| Area | Details |
-|:---|:---|
-| 💻 **Web & Mobile Development** | Full-stack development, responsive UI, RESTful API |
-| 📊 **Data Analysis & Visualization** | Sentiment analysis, topic modeling, dashboarding |
-| ⚙️ **System Analysis** | Requirement analysis, system design, database modeling |
-| 🗣️ **NLP** | IndoBERT, text classification, LDA topic modeling |
-| 🔧 **Data Engineering** | Web scraping, data cleaning, feature engineering |
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,php,go,c,cpp,cs,html,css)](https://skillicons.dev)
-
-**Frameworks & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,laravel,tailwind,bootstrap,figma)](https://skillicons.dev)
-
-**Data, Analytics & Environment**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-16A085?style=for-the-badge&logo=windows&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abysmaa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abysmaa&theme=radical&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abysmaa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&bg_color=0D1117&title_color=2DD4BF&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abysmaa&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="Most used languages" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abysmaa&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abysmaa&hide_border=true&background=0D1117&ring=2DD4BF&fire=F97316&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/abysmaa/abysmaa/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake animation"
-/>
-
+  <img src="https://raw.githubusercontent.com/abysmaa/abysmaa/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 </div>
 
----
-
-<!-- Footer -->
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8F87&height=100&section=footer" width="100%" alt="" />
 </div>
