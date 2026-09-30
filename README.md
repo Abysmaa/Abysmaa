@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8F87&height=190&section=header&text=Muhammad%20Abiyu%20Bisma&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20System%20Analyst&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Abiyu Bisma | Full Stack Developer, Data Analyst, System Analyst" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8F87&height=160&section=header&text=CODE%20%26%20DATA&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=WEB%20%7C%20MOBILE%20%7C%20ANALYTICS%20%7C%20SYSTEMS&descAlignY=62&descColor=ffffff&animation=fadeIn" width="100%" alt="Code and data: web, mobile, analytics, and systems" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2600&pause=900&color=0B8F87&center=true&vCenter=true&repeat=true&width=800&height=90&lines=Abiyu+Bisma" width="100%" alt="Abiyu Bisma, animated typing title" />
 
   <a href="https://github.com/Abysmaa"><img src="https://komarev.com/ghpvc/?username=abysmaa&color=0B8F87&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" /></a>
   <a href="https://www.linkedin.com/in/muhammad-abiyu-bisma-reswara-oetama-6bb65030b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
