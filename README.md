@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8F87&height=160&section=header&text=CODE%20%26%20DATA&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=WEB%20%7C%20MOBILE%20%7C%20ANALYTICS%20%7C%20SYSTEMS&descAlignY=62&descColor=ffffff&animation=fadeIn" width="100%" alt="Code and data: web, mobile, analytics, and systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8F87&height=160&section=header&text=CODE%20AND%20DATA&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=WEB%20%7C%20MOBILE%20%7C%20ANALYTICS%20%7C%20SYSTEMS&descAlignY=62&descColor=ffffff&animation=fadeIn" width="100%" alt="Code and data: web, mobile, analytics, and systems" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2600&pause=900&color=0B8F87&center=true&vCenter=true&repeat=true&width=800&height=90&lines=Abiyu+Bisma" width="100%" alt="Abiyu Bisma, animated typing title" />
 
@@ -44,10 +44,10 @@ Analisis ulasan aplikasi Digi Bank BJB dari Google Play Store menggunakan **Indo
 <div align="center">
 
 **Languages**<br />
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,go,c,cpp,cs,html,css" alt="Python, JavaScript, TypeScript, PHP, Go, C, C++, C sharp, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,go,c,cpp,cs,html,css" alt="Python, JavaScript, PHP, HTML, CSS" />
 
 **Frameworks & Design**<br />
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,laravel,tailwind,bootstrap,figma" alt="Next.js, React, Vue, Node.js, Laravel, Tailwind, Bootstrap, Figma" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,laravel,tailwind,bootstrap,figma" alt="Next.js, React, Node.js, Laravel, Tailwind, Bootstrap, Figma" />
 
 **Data & Tools**<br />
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br />
