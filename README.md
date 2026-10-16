@@ -11,7 +11,7 @@
 
 ## About Me
 
-Mahasiswa **Gunadarma University** di Depok, Jawa Barat, yang tertarik membangun aplikasi web dan mobile serta mengolah data menjadi insight yang berguna.
+Fresh Graduate **Gunadarma University** di Depok, Jawa Barat, yang tertarik membangun aplikasi web dan mobile serta mengolah data menjadi insight yang berguna.
 
 - **Focus:** Web & mobile development, data analysis, data visualization, and system analysis
 - **Currently:** Menganalisis data dan membangun aplikasi web/mobile yang scalable
