@@ -27,7 +27,7 @@ Analisis ulasan aplikasi Digi Bank BJB dari Google Play Store menggunakan **Indo
 |:--|:--|:--|
 | 6.431 ulasan mentah<br>6.396 setelah cleaning | 92,75% | 4 topik dominan; Login & Akses tertinggi (31,08%) |
 
-`IndoBERT` `LDA` `Google Play Scraping` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Streamlit`
+`Python` `IndoBERT` `LDA` `Google Play Scraping` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Streamlit`
 
 ## Areas of Interest
 
@@ -44,10 +44,10 @@ Analisis ulasan aplikasi Digi Bank BJB dari Google Play Store menggunakan **Indo
 <div align="center">
 
 **Languages**<br />
-<img src="https://skillicons.dev/icons?i=ts,go,c,cpp,cs" alt="TypeScript, Go, C, C++, C#" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,go,c,cpp,cs,html,css" alt="Python, JavaScript, PHP, HTML, CSS" />
 
 **Frameworks & Design**<br />
-<img src="https://skillicons.dev/icons?i=vue" alt="Vue" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,laravel,tailwind,bootstrap,figma" alt="Next.js, React, Node.js, Laravel, Tailwind, Bootstrap, Figma" />
 
 **Data & Tools**<br />
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br />
